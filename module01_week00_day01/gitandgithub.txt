@@ -1,0 +1,3 @@
+git manages and updated the files and runs in the background automatedly and coastally on your pc or macos device .
+ 
+github host projects aka files or reposotories online and the is a place where you easily interact with them eg. making changes or reverting to an older version.
