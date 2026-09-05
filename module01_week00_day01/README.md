@@ -32,4 +32,4 @@ Edit this file by typing your name below this line. git commit and git push the 
 **NOTE:** Submit a link to your fork on github to the submission box on Schoology.
 
 
-Your Name Here: ___Maynard Anthony 2
+Your Name Here: Maynard Anthony 2
